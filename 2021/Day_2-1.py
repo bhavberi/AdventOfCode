@@ -1,1 +1,14 @@
-
+f=0
+d=0
+a=1000
+for i in range(a):
+    l=input()
+    if 'forward' in l:
+        f+=int(l[8])
+    if 'up' in l:
+        d-=int(l[3])
+    
+    if 'down' in l:
+        d+=int(l[5])
+    
+print(f*d)
