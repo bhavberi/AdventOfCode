@@ -1,3 +1,5 @@
+#Day 2 Part 1
+
 f=0
 d=0
 a=1000
@@ -12,3 +14,4 @@ for i in range(a):
         d+=int(l[5])
     
 print(f*d)
+#Bhav Beri
