@@ -8,6 +8,6 @@ Website : [Advent of Code](https://adventofcode.com)
 
 ## Bhav Beri
 
-```
+```text
 Reference for Go Files : https://github.com/orfeasa/advent-of-code-2021
 ```
