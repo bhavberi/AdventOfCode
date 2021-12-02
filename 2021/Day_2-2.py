@@ -1,3 +1,5 @@
+#Day 2 Part 2
+
 f=0
 d=0
 a=1000
@@ -14,3 +16,4 @@ for i in range(a):
         aim+=int(l[5])
     
 print(f*d)
+#Bhav Beri
