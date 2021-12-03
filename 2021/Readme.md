@@ -7,7 +7,7 @@ Go To Respective Folders for Different Topics/Inputs/Answers/etc
   - [ ] Question
   - [ ] Go
   - [ ] Java
-  - [ ] Python
+  - [x] Python
 
 - [ ] Day 4
   - [ ] Inputs
