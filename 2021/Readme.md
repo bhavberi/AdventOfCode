@@ -1,5 +1,26 @@
 Go To Respective Folders for Different Topics/Inputs/Answers/etc
 
-To-Do
-[x] 1
-[ ] 2
+### To-Do
+- [ ] Day 3
+  - [x] Inputs
+  - [x] Answer
+  - [ ] Question
+  - [ ] Go
+  - [ ] Java
+  - [ ] Python
+
+- [ ] Day 4
+  - [ ] Inputs
+  - [ ] Answer
+  - [ ] Question
+  - [ ] Go
+  - [ ] Java
+  - [ ] Python
+
+- [ ] Day 5
+  - [ ] Inputs
+  - [ ] Answer
+  - [ ] Question
+  - [ ] Go
+  - [ ] Java
+  - [ ] Python
