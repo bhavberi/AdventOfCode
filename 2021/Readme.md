@@ -4,7 +4,7 @@ Go To Respective Folders for Different Topics/Inputs/Answers/etc
 - [ ] Day 3
   - [x] Inputs
   - [x] Answer
-  - [ ] Question
+  - [x] Question
   - [ ] Go
   - [ ] Java
   - [x] Python
